@@ -1,6 +1,6 @@
 ## Database: DB_AbreuLucas 
 
-## Tabela: Informações Música
+## Tabela: MusicInfo
 
 ### Colunas: 
 - Titulo
