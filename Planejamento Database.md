@@ -6,4 +6,5 @@
 - Titulo
 - Artista
 - Album
-- Genero 
+- Ano 
+- Genero
